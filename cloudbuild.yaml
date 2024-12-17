@@ -21,3 +21,5 @@ steps:
   - --filename=K8s/
   - --location=us-central1
   - --cluster=mykube
+options:
+  logging: CLOUD_LOGGING_ONLY
