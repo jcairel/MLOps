@@ -14,7 +14,7 @@ st.text("Provide URL of image for classification")
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model = tf.keras.models.load_model('/MLOps/model.keras')
+    model = tf.keras.models.load_model('/MLOps/models/')
     return model
 
 with st.spinner('Loading Model Into Memory....'):
