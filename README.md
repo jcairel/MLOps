@@ -1,6 +1,6 @@
 # Machine Learning Pipeline with MLOps and CI/CD
 
-This project implements a machine learning pipeline using MLOps principles, ensuring automation, scalability, and reproducibility. The pipeline integrates CI/CD, containerization, orchestration, and cloud hosting to streamline ML workflows from model training to deployment and monitoring.
+This project implements a Convolutional Neural Network pipeline for image classification using MLOps principles, ensuring automation, scalability, and reproducibility. The pipeline integrates CI/CD, containerization, orchestration, and cloud hosting to streamline ML workflows from model training to deployment and monitoring.
 
 ---
 
@@ -18,4 +18,3 @@ This project implements a machine learning pipeline using MLOps principles, ensu
 
 4. **Cloud Hosting and Monitoring with Google Cloud Platform (GCP)**  
    - Hosts the ML model using GCP services (GKE).
-   - Tracks model performance, logs, and resource usage for monitoring.
