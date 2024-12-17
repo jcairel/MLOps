@@ -4,7 +4,7 @@ FROM python:3.7-slim
 RUN apt-get update
 
 # Copy local code to the container image
-ENV APP_HOME /app 
+ENV APP_HOME /MLOps
 WORKDIR $APP_HOME
 COPY . ./
 
