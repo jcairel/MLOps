@@ -8,7 +8,7 @@ This project implements a **machine learning pipeline** using MLOps principles, 
 
 1. **Version Control and CI/CD with Google Cloud Build**  
    - Automates the pipeline workflow, including model training, and deployment.
-   - Triggers on every commit to ensure seamless integration and delivery.
+   - Triggers on every push to main branch to ensure seamless integration and delivery.
 
 2. **Model Training and Containerization with Docker**  
    - The machine learning model is trained and packaged into a Docker container for consistency across environments.
