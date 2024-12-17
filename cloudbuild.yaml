@@ -19,5 +19,5 @@ steps:
   args:
   - run
   - --filename=K8s/
-  - --location=us-west1-b
+  - --location=us-central1
   - --cluster=mykube

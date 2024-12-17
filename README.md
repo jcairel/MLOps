@@ -1,6 +1,6 @@
 # Machine Learning Pipeline with MLOps and CI/CD
 
-This project implements a **machine learning pipeline** using MLOps principles, ensuring automation, scalability, and reproducibility. The pipeline integrates **CI/CD**, containerization, orchestration, and cloud hosting to streamline ML workflows from model training to deployment and monitoring.
+This project implements a machine learning pipeline using MLOps principles, ensuring automation, scalability, and reproducibility. The pipeline integrates CI/CD, containerization, orchestration, and cloud hosting to streamline ML workflows from model training to deployment and monitoring.
 
 ---
 
